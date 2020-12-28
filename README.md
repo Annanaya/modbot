@@ -1,1 +1,1 @@
-# modbot
+# ModBot Wiki
